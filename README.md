@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LucaDuca1
+- 👋 Hi, I’m Luca Cristiano
 - 👀 I’m interested in technology, engineering, pc building and gaming
 - 🌱 I’m currently Studying Mechatronics Engineering at the University of Waterloo
 - 💞️ I’m looking to collaborate on anything!
